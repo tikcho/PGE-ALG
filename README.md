@@ -1,2 +1,2 @@
 # PGE-ALG
-Practice Algorithms Tasks
+Practice For Algorithms Tasks

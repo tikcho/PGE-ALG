@@ -1,7 +1,6 @@
 import sys
 import copy
 
-
 def main():
     # we read the input and make a list of words
     number = int(input())

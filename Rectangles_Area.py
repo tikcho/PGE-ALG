@@ -1,4 +1,5 @@
 import copy
+
 def correctly_drown_rect(M, N, matrix, start):
     flag = 'S'
     x_min = start[0]

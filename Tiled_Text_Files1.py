@@ -1,5 +1,4 @@
 import sys
-
 def main():
 
     # 1.

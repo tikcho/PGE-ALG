@@ -1,2 +1,2 @@
 # PGE-ALG
-Practice For Algorithms Tasks
+CVUT Algorithms/Programming_for_engineers courses tasks
